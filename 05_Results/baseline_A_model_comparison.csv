@@ -1,0 +1,4 @@
+Model,Accuracy
+Logistic Regression,0.87
+Random Forest,0.88
+SVM,0.87
